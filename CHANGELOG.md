@@ -1,3 +1,9 @@
+## [3.2.14](https://github.com/appium/appium-mac2-driver/compare/v3.2.13...v3.2.14) (2026-01-27)
+
+### Miscellaneous Chores
+
+* **deps:** bump asyncbox from 4.1.1 to 6.0.1 ([#373](https://github.com/appium/appium-mac2-driver/issues/373)) ([b52fbd4](https://github.com/appium/appium-mac2-driver/commit/b52fbd45d807d345f7ef4dca672a9b42cf861d5a))
+
 ## [3.2.13](https://github.com/appium/appium-mac2-driver/compare/v3.2.12...v3.2.13) (2025-12-22)
 
 ### Miscellaneous Chores
